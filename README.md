@@ -43,23 +43,31 @@ To get started with the project locally, follow these steps:
    npm run dev
    ```
 
-📖 Usage
-Open the app on your mobile device or desktop.
-Allow camera access when prompted.
-Switch between front/back cameras using the toggle button.
-Point the camera at an academic problem.
-Click "Capture & Analyze" to get a detailed solution.
-Use the speech toggle to hear the solution read aloud.
-🧑‍💻 Technologies Used
-Frontend: React, TypeScript, Tailwind CSS
-AI Analysis: Google Gemini AI
-Web Speech API: For text-to-speech functionality
-🔧 Development Tools
-Code Editor: Visual Studio Code
-Version Control: Git, GitHub
-Styling: Tailwind CSS for quick and responsive styling
-🚨 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📖 Usage
+
+1. Open the app on your mobile device or desktop.
+2. Allow camera access when prompted.
+3. Switch between front/back cameras using the toggle button.
+4. Point the camera at an academic problem.
+5. Click "Capture & Analyze" to get a detailed solution.
+6. Use the speech toggle to hear the solution read aloud.
+
+## 🧑‍💻 Technologies Used
+
+- **Frontend**: React, TypeScript, Tailwind CSS
+- **AI Analysis**: Google Gemini AI
+- **Web Speech API**: For text-to-speech functionality
+
+## 🔧 Development Tools
+
+- **Code Editor**: Visual Studio Code
+- **Version Control**: Git, GitHub
+- **Styling**: Tailwind CSS for quick and responsive styling
+
+## 🚨 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 📨 Contact
 Have questions or suggestions? Feel free to reach out!
