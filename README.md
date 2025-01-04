@@ -13,7 +13,7 @@ A mobile-friendly web application that helps students solve academic problems us
 
 ## 🖼️ Screenshots
 
-![App Screenshot](https://via.placeholder.com/500x300.png)  
+![App Screenshot](./combined_screenshot/500x300.png)  
 _Screenshot of the app in action (Replace with actual screenshots)_
 
 ## 🏁 Getting Started
