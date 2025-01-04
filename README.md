@@ -43,6 +43,9 @@ To get started with the project locally, follow these steps:
    npm run dev
    ```
 
+4. Open your browser and go to http://localhost:5173 to see the app in action.
+
+
 ## 📖 Usage
 
 1. Open the app on your mobile device or desktop.
