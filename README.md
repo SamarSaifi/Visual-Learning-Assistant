@@ -25,26 +25,23 @@ To get started with the project locally, follow these steps:
 - [Node.js](https://nodejs.org/) (latest LTS version recommended)
 - A code editor like [Visual Studio Code](https://code.visualstudio.com/)
 
-## 🏁 Installation
+### Installation
 
-1. **Clone the repository:**
-
+1. **Clone the repository**
    ```bash
    git clone https://github.com/SamarSaifi/Visual-Learning-Assistant.git
    cd Visual-Learning-Assistant
+   ```
 
-2. **Install dependencies:**
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-  ```bash
-npm install
-
-3. **Start the development server:**
-
-```bash
-npm run dev
-
-
-Open your browser and go to http://localhost:3000 to see the app in action.
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
 
 📖 Usage
 Open the app on your mobile device or desktop.
