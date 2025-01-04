@@ -13,8 +13,13 @@ A mobile-friendly web application that helps students solve academic problems us
 
 ## 🖼️ Screenshots
 
+<<<<<<< HEAD
 ![App Screenshot](./assets/combined_screenshot.png)  
 _Screenshot of the app in action_
+=======
+![App Screenshot](./combined_screenshot/500x300.png)  
+_Screenshot of the app in action (Replace with actual screenshots)_
+>>>>>>> db913193d2ca0d4cbb8ef3bac75690c134b46c49
 
 ## 🏁 Getting Started
 
