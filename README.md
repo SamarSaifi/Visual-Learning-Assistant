@@ -14,7 +14,6 @@ A mobile-friendly web application that helps students solve academic problems us
 ## 🖼️ Screenshots
 
 ![App Screenshot](./combined_screenshot.png)  
-_Screenshot of the app in action_
 
 
 ## 🏁 Getting Started
