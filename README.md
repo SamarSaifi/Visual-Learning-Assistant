@@ -71,6 +71,10 @@ To get started with the project locally, follow these steps:
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
+## License and Usage
+This project is proprietary and confidential. Unauthorized copying, modification, distribution, or use of any part of this repository is strictly prohibited without prior written permission from the owner.
+
+For inquiries regarding usage rights, please contact samar72saifi@gmail.com.
 
 📨 Contact
 Have questions or suggestions? Feel free to reach out!
