@@ -5,10 +5,11 @@ import { analyzeImage } from '../lib/gemini';
 import { Solution } from './Solution';
 
 const WEBCAM_CONFIG = {
-  width: 1280,
-  height: 720,
+  width: 1920,
+  height: 1080,
   facingMode: 'environment',
   screenshotQuality: 0.92,
+  aspectRatio: 16 / 9,
 };
 
 export function Camera() {
